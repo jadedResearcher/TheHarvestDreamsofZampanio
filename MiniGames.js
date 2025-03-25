@@ -7,7 +7,7 @@ const BigBook = () => {
   //list of title/source array pairs
   const content = [];
 
-  const count = 31;
+  const count = 13;
 
   for (let i = 0; i < count; i++) {
     //unlike regular, no rhyme or reason, no consistency
